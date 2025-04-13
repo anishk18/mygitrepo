@@ -1,2 +1,2 @@
 # mygitrepo
-THis is first repo to show version control on git
+This is first repo to show version control on git
